@@ -1,0 +1,12 @@
+{
+  "people": {
+    "john" : {
+      "name" : "john bob",
+      "stuff" : ["blanket", "toothbrush", "comb", "spatula"]
+    }
+  },
+  "places" : [
+    "Hawaii",
+    "Nabrasca"
+  ]
+}

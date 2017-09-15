@@ -15,7 +15,7 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -30,7 +30,7 @@ kramdown:
 
 mathjax: true
 
-include: [".htaccess"]
+include: [".htaccess", "_pages"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile",
           "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace",
           "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile",

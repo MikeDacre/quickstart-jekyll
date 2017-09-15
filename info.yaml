@@ -1,0 +1,5 @@
+people:
+  - name: john
+  - stuff:
+    - blanket
+    - pencil
